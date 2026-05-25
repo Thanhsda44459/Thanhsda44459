@@ -1,47 +1,89 @@
 <h1 align="center">Hi there 👋, I'm Thanh Võ</h1>
-<h3 align="center">Full-stack Developer | React · Next.js · NestJS · Java</h3>
+<h3 align="center">Full-stack Developer &nbsp;·&nbsp; React · Next.js · NestJS · Java</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/duy-thanh-võ-ab5264411">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:thanhsda44459@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Thanhsda44459&color=blueviolet">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Thanhsda44459&style=flat-square&color=7F77DD"/>
 </p>
+
 ---
-<h3 align="center">🛠️ Tech Stack</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-SCSS-CC6694?logo=sass&logoColor=white&style=flat">
-  <br>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat">
+  <img src="./profile-card.svg" alt="Thanh Võ — Profile Card" width="800"/>
 </p>
+
 ---
-<h3 align="center">📌 Dự Án Nổi Bật</h3>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6694?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps / Tools**
+
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📌 Dự Án Nổi Bật
+
 | Dự án | Mô tả | Stack |
 |-------|-------|-------|
-| [CafeManagement](https://github.com/Thanhsda44459/CafeManagement) | Quản lý quán cafe: POS, tồn kho, nhân viên | Java, SQL |
-| [HTML-Practice](https://github.com/Thanhsda44459/HTML-Practice) | Landing page responsive với SCSS 7-1 pattern | HTML, SCSS, Parcel |
-| [auto-script-web-server](https://github.com/Thanhsda44459/auto-script-web-server) | Script tự động cài web server & DNS | Bash, CentOS |
+| [**CafeManagement**](https://github.com/Thanhsda44459/CafeManagement) | Hệ thống quản lý quán cafe: POS, tồn kho, nhân viên | Java · SQL |
+| [**HTML-Practice**](https://github.com/Thanhsda44459/HTML-Practice) | Landing page responsive với SCSS 7-1 pattern | HTML · SCSS · Parcel |
+| [**auto-script-web-server**](https://github.com/Thanhsda44459/auto-script-web-server) | Script tự động cài web server & cấu hình DNS | Bash · CentOS |
+
 ---
-<h3 align="center">📊 GitHub Stats</h3>
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thanhsda44459&show_icons=true&theme=tokyonight">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhsda44459&layout=compact&theme=tokyonight">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thanhsda44459&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhsda44459&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
----
-<h3 align="center">🚀 Đang phát triển</h3>
-- Xây dựng ứng dụng full-stack với React + NestJS
-- Cải thiện kỹ năng database & system design
-- Tìm kiếm cơ hội thực tập / junior developer
----
-<h3 align="center">📫 Liên hệ</h3>
+
 <p align="center">
-  <a href="www.linkedin.com/in/duy-thanh-võ-ab5264411">LinkedIn</a>
-  ·
-  <a href="mailto:thanhsda44459@gmail.com">thanhsda44459@gmail.com</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanhsda44459&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="720"/>
+</p>
+
+---
+
+## 🚀 Đang Phát Triển
+
+- 🔨 Xây dựng ứng dụng full-stack với **React + NestJS**
+- 📚 Cải thiện kỹ năng **database design** & **system design**
+- 🔍 Tìm kiếm cơ hội **thực tập / junior developer**
+
+---
+
+## 📫 Liên Hệ
+
+<p>
+  <a href="https://www.linkedin.com/in/duy-thanh-võ-ab5264411">
+    <img src="https://img.shields.io/badge/LinkedIn-Duy%20Thanh%20Võ-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:thanhsda44459@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-thanhsda44459%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>

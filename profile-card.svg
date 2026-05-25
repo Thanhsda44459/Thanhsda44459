@@ -1,0 +1,135 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Liberation Sans', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7F77DD"/>
+      <stop offset="100%" style="stop-color:#1D9E75"/>
+    </linearGradient>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#534AB7"/>
+      <stop offset="100%" style="stop-color:#1D9E75"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect width="800" height="320" rx="16"/>
+    </clipPath>
+    <clipPath id="avatarClip">
+      <circle cx="80" cy="80" r="36"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="320" rx="16" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.04" clip-path="url(#cardClip)">
+    <line x1="0" y1="0" x2="0" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="80" y1="0" x2="80" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="160" y1="0" x2="160" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="240" y1="0" x2="240" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="320" y1="0" x2="320" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="400" y1="0" x2="400" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="480" y1="0" x2="480" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="560" y1="0" x2="560" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="640" y1="0" x2="640" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="720" y1="0" x2="720" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="800" y1="0" x2="800" y2="320" stroke="#ffffff" stroke-width="1"/>
+    <line x1="0" y1="0" x2="800" y2="0" stroke="#ffffff" stroke-width="1"/>
+    <line x1="0" y1="80" x2="800" y2="80" stroke="#ffffff" stroke-width="1"/>
+    <line x1="0" y1="160" x2="800" y2="160" stroke="#ffffff" stroke-width="1"/>
+    <line x1="0" y1="240" x2="800" y2="240" stroke="#ffffff" stroke-width="1"/>
+    <line x1="0" y1="320" x2="800" y2="320" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="800" height="3" rx="0" fill="url(#accent)"/>
+
+  <!-- LEFT COLUMN -->
+  <!-- Avatar circle -->
+  <circle cx="80" cy="88" r="36" fill="url(#avatarBg)"/>
+  <text x="80" y="94" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">TV</text>
+
+  <!-- Name & title -->
+  <text x="130" y="76" font-size="22" font-weight="700" fill="#e6edf3">Thanh Võ</text>
+  <text x="130" y="98" font-size="13" fill="#7d8590">Full-stack Developer</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="142" x2="368" y2="142" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Status badge -->
+  <rect x="32" y="154" width="12" height="12" rx="6" fill="#1D9E75"/>
+  <text x="50" y="164" font-size="12" fill="#7d8590">Tìm kiếm cơ hội thực tập / junior</text>
+
+  <!-- Tech stack label -->
+  <text x="32" y="196" font-size="11" fill="#7d8590" letter-spacing="1">TECH STACK</text>
+
+  <!-- Frontend badges row 1 -->
+  <rect x="32" y="206" width="64" height="22" rx="11" fill="#1c1f26" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="64" y="221" text-anchor="middle" font-size="11" fill="#AFA9EC">React</text>
+
+  <rect x="102" y="206" width="64" height="22" rx="11" fill="#1c1f26" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="134" y="221" text-anchor="middle" font-size="11" fill="#AFA9EC">Next.js</text>
+
+  <rect x="172" y="206" width="52" height="22" rx="11" fill="#1c1f26" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="198" y="221" text-anchor="middle" font-size="11" fill="#9FE1CB">SCSS</text>
+
+  <rect x="230" y="206" width="64" height="22" rx="11" fill="#1c1f26" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="262" y="221" text-anchor="middle" font-size="11" fill="#F5C4B3">NestJS</text>
+
+  <!-- row 2 -->
+  <rect x="32" y="234" width="52" height="22" rx="11" fill="#1c1f26" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="58" y="249" text-anchor="middle" font-size="11" fill="#B5D4F4">Java</text>
+
+  <rect x="90" y="234" width="44" height="22" rx="11" fill="#1c1f26" stroke="#97C459" stroke-width="0.5"/>
+  <text x="112" y="249" text-anchor="middle" font-size="11" fill="#C0DD97">SQL</text>
+
+  <rect x="140" y="234" width="52" height="22" rx="11" fill="#1c1f26" stroke="#EF9F27" stroke-width="0.5"/>
+  <text x="166" y="249" text-anchor="middle" font-size="11" fill="#FAC775">Bash</text>
+
+  <!-- Contact -->
+  <text x="32" y="284" font-size="12" fill="#7d8590">✉ thanhsda44459@gmail.com</text>
+  <text x="32" y="302" font-size="12" fill="#7d8590">⌥ github.com/Thanhsda44459</text>
+
+  <!-- DIVIDER vertical -->
+  <line x1="400" y1="20" x2="400" y2="300" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- RIGHT COLUMN - Projects -->
+  <text x="424" y="46" font-size="11" fill="#7d8590" letter-spacing="1">DỰ ÁN NỔI BẬT</text>
+
+  <!-- Project 1 -->
+  <rect x="424" y="56" width="340" height="66" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="424" y="56" width="3" height="66" rx="0" fill="#534AB7"/>
+  <text x="438" y="75" font-size="13" font-weight="600" fill="#e6edf3">CafeManagement</text>
+  <text x="438" y="92" font-size="11" fill="#7d8590">Quản lý quán cafe: POS, tồn kho, nhân viên</text>
+  <rect x="438" y="100" width="34" height="14" rx="7" fill="#1c1f26" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="455" y="111" text-anchor="middle" font-size="10" fill="#B5D4F4">Java</text>
+  <rect x="478" y="100" width="28" height="14" rx="7" fill="#1c1f26" stroke="#97C459" stroke-width="0.5"/>
+  <text x="492" y="111" text-anchor="middle" font-size="10" fill="#C0DD97">SQL</text>
+
+  <!-- Project 2 -->
+  <rect x="424" y="132" width="340" height="66" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="424" y="132" width="3" height="66" rx="0" fill="#1D9E75"/>
+  <text x="438" y="151" font-size="13" font-weight="600" fill="#e6edf3">HTML-Practice</text>
+  <text x="438" y="168" font-size="11" fill="#7d8590">Landing page responsive với SCSS 7-1 pattern</text>
+  <rect x="438" y="176" width="36" height="14" rx="7" fill="#1c1f26" stroke="#7d8590" stroke-width="0.5"/>
+  <text x="456" y="187" text-anchor="middle" font-size="10" fill="#7d8590">HTML</text>
+  <rect x="480" y="176" width="36" height="14" rx="7" fill="#1c1f26" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="498" y="187" text-anchor="middle" font-size="10" fill="#9FE1CB">SCSS</text>
+  <rect x="522" y="176" width="40" height="14" rx="7" fill="#1c1f26" stroke="#7d8590" stroke-width="0.5"/>
+  <text x="542" y="187" text-anchor="middle" font-size="10" fill="#7d8590">Parcel</text>
+
+  <!-- Project 3 -->
+  <rect x="424" y="208" width="340" height="66" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="424" y="208" width="3" height="66" rx="0" fill="#EF9F27"/>
+  <text x="438" y="227" font-size="13" font-weight="600" fill="#e6edf3">auto-script-web-server</text>
+  <text x="438" y="244" font-size="11" fill="#7d8590">Script tự động cài web server &amp; DNS</text>
+  <rect x="438" y="252" width="36" height="14" rx="7" fill="#1c1f26" stroke="#FAC775" stroke-width="0.5"/>
+  <text x="456" y="263" text-anchor="middle" font-size="10" fill="#FAC775">Bash</text>
+  <rect x="480" y="252" width="48" height="14" rx="7" fill="#1c1f26" stroke="#7d8590" stroke-width="0.5"/>
+  <text x="504" y="263" text-anchor="middle" font-size="10" fill="#7d8590">CentOS</text>
+
+  <!-- Border outer -->
+  <rect width="800" height="320" rx="16" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
